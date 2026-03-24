@@ -1,4 +1,4 @@
-## Hugo Simeon Caraballo
+## Hugo Simeón Caraballo
 
 Computer Engineering student focused on algorithms, systems and performance.
 Interested in building efficient software and exploring applied AI.
