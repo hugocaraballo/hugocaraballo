@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hugo Simeon Caraballo
 
-<!--
-**hugocaraballo/hugocaraballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on algorithms, systems and performance.
+Interested in building efficient software and exploring applied AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+
+* **Cellular Automata Engine (C++17)**
+  High-performance Conway’s Game of Life with optimized generation updates, population statistics and CPU benchmarking using POSIX timers.
+
+* **BMP Image Processor (C++17)**
+  Low-level 24-bit image processor with raw binary parsing, memory alignment (padding) and spatial convolution filters.
+
+---
+
+##  Skills
+
+* **Languages:** C++, Python
+* **Core:** Data Structures, Algorithms, Complexity (Big-O)
+* **Focus:** Performance optimization, systems programming
+
+---
+
+##  Currently learning
+
+* Applied AI (LLMs, Google Cloud)
+* Software architecture and scalable systems
