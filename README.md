@@ -12,7 +12,7 @@ Interested in building efficient software and exploring applied AI.
   Low-level 24-bit image processor with raw binary parsing, memory alignment (padding) and spatial convolution filters.
   
 * **Algorithm Performance Analyzer (Python)**
-  Modular benchmarking suite profiling algorithmic time complexities (O(n²) vs O(n log n)) with high-resolution CPU timers and automated Matplotlib data visualization.
+  Interactive CLI tool to profile and visualize sorting algorithm time complexities (O(n²) vs O(n log n)) using high-resolution timers and Matplotlib.
 
 ##  Skills
 
