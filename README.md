@@ -1,7 +1,7 @@
 ## Hugo Simeón Caraballo
 
 Computer Engineering student focused on algorithms, systems and performance.
-Interested in building efficient software and exploring applied AI.
+Interested in building efficient software.
 
 ##  Projects
 
@@ -19,8 +19,3 @@ Interested in building efficient software and exploring applied AI.
 * **Languages:** C++, Python
 * **Core:** Data Structures, Algorithms, Complexity (Big-O)
 * **Focus:** Performance optimization, systems programming
-
-##  Currently learning
-
-* Applied AI (LLMs, Google Cloud)
-* Software architecture and scalable systems
